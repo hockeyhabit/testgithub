@@ -1,5 +1,7 @@
 contents 1 of test1.txt file
 
-made chqanges to bruceidea branch
+made changed a line to bruceidea branch
 
 now made changes to testbranch
+
+added a line
